@@ -1,0 +1,7 @@
+.container{
+    padding: 50px
+}
+textarea {
+    resize: none;
+    height: 200px;
+ }
